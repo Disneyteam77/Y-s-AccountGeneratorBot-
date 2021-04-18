@@ -22,8 +22,7 @@ Deploy Via Heroku.
  </p>
 
 ## Support   
-Join the [telegram group](https://t.me/stardevbots) for support and the [channel](https://t.me/StarDevs) for updates.   
-Demo Bot - [Click here](https://t.me/Account_GeneratingBot) 
+Join the [telegram group](https://t.me/Yeageristbots) for support and the [channel](https://t.me/Animemusicarchive6) for updates.   
 
 Report bugs, give feature requests there..   
 Do fork and star the repository if you liked it.
