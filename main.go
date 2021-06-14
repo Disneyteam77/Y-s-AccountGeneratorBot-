@@ -42,7 +42,7 @@ func main() {
 	if err != nil {
 		panic("failed to start polling: " + err.Error())
 	}
-	fmt.Printf("%s has been started...\nMade with ❤️ by @Amalbiju154 (@Animemusicarchive6).\n", b.User.Username)
+	fmt.Printf("%s has been started...\nMade with ❤️ by @doreamonfans1 (@doreamonfans1).\n", b.User.Username)
 
 	// Idle, to keep updates coming in, and avoid bot stopping.
 	updater.Idle()
@@ -78,13 +78,13 @@ func start(ctx *ext.Context) error {
 	}
 	// Following string is replied to cmd user on /start 
 	MSG = "*Hi %v,\n" +
-		"I am an Account Generator Bot\n" +
+		"I am an Disney Team Netfiex premium Account Generator Bot\n" +
 		"-------------------------------------------------\n" +
 		"I can provide premium accounts of different services\n" +
 		"--------------------------------------------------\n" +
 		"Do /gen to generate an account\n" +
 		"--------------------------------------------------\n" +
-		"❤️Brought to You By @Animemusicarchive6❤️\n*"
+		"❤️Brought to You By @disneygrou❤️\n*"
 
 	user := ctx.EffectiveUser
 	channel_id, cerror := strconv.Atoi(os.Getenv("CHANNEL_ID"))
